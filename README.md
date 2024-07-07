@@ -1,4 +1,4 @@
-APLIKASI KAS RT
+**APLIKASI KAS RT**
 | Nama Anggota Kelompok | NIM | Mata Kuliah |
 | Randy Iqbal Putra | 312210209 | Mobile 2 | | Esa Akbar | 312210127 | Mobile 2 | | Muhammad Febryan | 312210215 | Mobile 2 |
 1.PENDAHULUAN Pengelolaan iuran kas di lingkungan RT seringkali menjadi tantangan, terutama dalam hal pencatatan pembayaran, pelaporan dana, dan komunikasi yang efektif antara pengurus RT dan warga. Dalam upaya untuk meningkatkan efisiensi dan transparansi, pengembangan aplikasi mobile menjadi solusi yang menarik.
